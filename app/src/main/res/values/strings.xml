@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Popular Movies</string>
-    <string name="error_message">Failed to load data. Please try again.</string>
+    <string name="error_message">Failed to load data, please try again.</string>
     <string name="rating_text">Rating: </string>
     <string name="release_date_text">Release Date:</string>
 </resources>
